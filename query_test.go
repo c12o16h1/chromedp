@@ -17,7 +17,7 @@ import (
 	"github.com/chromedp/cdproto/cdp"
 	"github.com/chromedp/cdproto/css"
 	"github.com/chromedp/cdproto/dom"
-	"github.com/chromedp/chromedp/kb"
+	"github.com/c12o16h1/chromedp/kb"
 )
 
 func TestWaitReady(t *testing.T) {

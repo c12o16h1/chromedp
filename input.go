@@ -6,7 +6,7 @@ import (
 	"github.com/chromedp/cdproto/cdp"
 	"github.com/chromedp/cdproto/dom"
 	"github.com/chromedp/cdproto/input"
-	"github.com/chromedp/chromedp/kb"
+	"github.com/c12o16h1/chromedp/kb"
 )
 
 // MouseAction are mouse input event actions

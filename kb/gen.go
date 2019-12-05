@@ -16,7 +16,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/chromedp/chromedp/kb"
+	"github.com/c12o16h1/chromedp/kb"
 )
 
 var (
